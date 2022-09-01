@@ -47,7 +47,7 @@ body {
 button {
   background-color: #3882f6;
   color: #f9faf8;
-  padding: 8px 16px;
+  padding: 10px 35px;
   border-radius: 10px;
   border: 0px;
   font-size: 16px;
@@ -146,4 +146,40 @@ li {
   font-weight: bold;
   margin-right: 375px;
   margin-bottom: 96px;
+}
+
+.sign-up-block {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  align-items: center;
+  color: #f9faf8;
+  padding: 96px 192px 96px;
+}
+
+.center-section {
+  background-color: #3882f6;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex: 1;
+  padding: 32px 0 32px;
+  margin-left: 24px;
+  margin-right: 24px;
+}
+
+.bottom-button {
+  border: 3px solid #f9faf8;
+}
+
+.main-text {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+
+.sub-text {
+  font-size: 18px;
+  margin-top: 0;
 }

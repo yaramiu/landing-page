@@ -107,6 +107,7 @@ li {
 .right-center-text,
 .rightmost-text {
   width: 175px;
+  height: 150px;
   color: gray;
   font-size: 18px;
   text-align: center;

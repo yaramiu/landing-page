@@ -5,7 +5,8 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
-.header-block {
+.header-block,
+.footer-block {
   background-color: #1f2937;
   color: #f9faf8;
 }
@@ -182,4 +183,11 @@ li {
 .sub-text {
   font-size: 18px;
   margin-top: 0;
+}
+
+.footer-block {
+  margin: 0;
+  padding: 20px;
+  text-align: center;
+  font-size: 18px;
 }
